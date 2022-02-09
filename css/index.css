@@ -1,0 +1,15 @@
+@media all and (max-width:575px){
+.fonts{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    direction: rtl;
+    text-align: justify;
+    line-height: 25px;
+
+}
+.slider{
+    height: 40vh;
+}
+.video{
+    width: 100%;
+}
+}
